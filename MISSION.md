@@ -1,27 +1,27 @@
-# 🎯 Mission – Burma Biodiversity Platform  
-> Building open biodiversity knowledge for Burma’s future.
+# 🎯 Mission – Burma Biodiversity Platform Core  
+> Powering open biodiversity infrastructure for Burma.
 
-The mission of the **Burma Biodiversity Platform** is to:
+The mission of the **Core Platform Repository** is to:
 
-- 🐾 Document and promote awareness of Burma’s native species  
-- 🌱 Support amateur and student-led biodiversity research and innovation  
-- 🧬 Build open, accessible tools and datasets for conservation and education  
-- 💬 Enable bilingual participation (English + Burmese)  
-- 🤝 Create a collaborative ecosystem for future generations
+- 🧠 Provide shared configurations, codebases, and data structures  
+- ⚙️ Maintain infrastructure across all biodiversity projects  
+- 🛠️ Support developers and contributors with modular tools  
+- 💬 Encourage bilingual documentation and collaboration  
+- 🤝 Enable scalable, open-source biodiversity innovation
 
-We believe in open knowledge, biodiversity conservation, and citizen science for Burma.
+This core powers all parts of the **Burma Biodiversity Platform**.
 
 ---
 
-# 🎯 မစ်ရှင် – မြန်မာဇီဝမျိုးစုံပလက်ဖောင်း  
-> မြန်မာ့အနာဂတ်အတွက် ဖွင့်လှစ်ထားသော ဇီဝမျိုးစုံအချက်အလက်များတည်ဆောက်ခြင်း။
+# 🎯 မစ်ရှင် – မြန်မာဇီဝမျိုးစုံပလက်ဖောင်းအခြေခံရုပ်  
+> မြန်မာ၏ ဇီဝမျိုးစုံအတွက် ဖွင့်လှစ်ထားသောအခြေခံဖွဲ့စည်းမှုတည်ဆောက်ခြင်း။
 
-**မြန်မာဇီဝမျိုးစုံပလက်ဖောင်း** ၏ မစ်ရှင်မှာ အောက်ပါအတိုင်းဖြစ်သည်။
+**အခြေခံရုပ်ပရောဂျက်** ၏ မစ်ရှင်မှာ -
 
-- 🐾 မြန်မာနိုင်ငံ၏ ဒေသသစ်မျိုးစုံအကြောင်း မှတ်တမ်းတင်ခြင်းနှင့် အသိပညာမြှင့်တင်ခြင်း  
-- 🌱 သဘာဝတက္ကသိုလ်ကျောင်းသားများနှင့် အားလပ်ချိန်သုတေသနလုပ်သူများအား ထောက်ခံပေးခြင်း  
-- 🧬 သဘာဝထိန်းသိမ်းရေးနှင့် ပညာရေးအတွက် ဖွင့်လှစ်ထားသော ကိရိယာများနှင့် ဒေတာများ တည်ဆောက်ခြင်း  
-- 💬 အင်္ဂလိပ် + မြန်မာ နှစ်ဘာသာဖြင့် ပါဝင်နိုင်စွမ်း ဖန်တီးခြင်း  
-- 🤝 မျိုးဆက်သစ်များအတွက် ပူးပေါင်းဆောင်ရွက်မှု ပတ်ဝန်းကျင် တည်ဆောက်ခြင်း
+- 🧠 အားလုံးအတွက် မျှဝေသုံးစွဲနိုင်သော code၊ ဖိုင်များ၊ ဖွဲ့စည်းမှုများ တည်ဆောက်ခြင်း  
+- ⚙️ ဘိုင်အော်လက်ဗ်များနှင့် ဇီဝပရောဂျက်တစ်ခုလုံး၏အောက်ခံဖွဲ့စည်းမှု ထိန်းသိမ်းခြင်း  
+- 🛠️ ဆော့ဖ်ဝဲဆရာများနှင့် ပါဝင်သူများအတွက် အသုံးချနိုင်သော tool များ ရှိရှိထားခြင်း  
+- 💬 နှစ်ဘာသာဖြင့် သတင်းအချက်အလက်နှင့် ပူးပေါင်းဆောင်ရွက်မှုမြှင့်တင်ခြင်း  
+- 🤝 ဖွင့်လှစ်ထားသော ဇီဝမျိုးစုံနည်းပညာ တီထွင်မှုအတွက် တိုးတက်နိုင်စွမ်း ဖန်တီးခြင်း
 
-ကျွန်ုပ်တို့သည် ဖွင့်လှစ်ထားသော အသိပညာ၊ ဇီဝမျိုးစုံထိန်းသိမ်းရေး၊ ပြည်သူသိပ္ပံအပေါ် ယုံကြည်ပါသည်။
+ဤအခြေခံဖိုင်သည် **မြန်မာဇီဝမျိုးစုံပလက်ဖောင်း** ၏ အထွေထွေဖွဲ့စည်းမှုအရင်းအမြစ် ဖြစ်သည်။
